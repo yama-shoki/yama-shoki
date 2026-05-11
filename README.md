@@ -1,83 +1,183 @@
+<!-- ═══════════════════════════════════════════════════════
+       HERO BANNER
+     ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Yama
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Yama&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Web%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20AI&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
 
-**`Web Engineer · building products with AI × Web`**
+<a href="https://www.yama-apps.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Yama+%2F+%E3%82%84%E3%81%BE+%F0%9F%91%8B;Building+products+with+AI+%C3%97+Web;Solve+%26+Ship!!" alt="typing" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![yama-apps.com](./images/hero.png)](https://www.yama-apps.com/)
-
-<sub><i>↑ Click to visit my playground — <a href="https://www.yama-apps.com/">yama-apps.com</a></i></sub>
+<img src="https://komarev.com/ghpvc/?username=yama-shoki&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/yama-shoki?style=flat-square&color=70A5FD&labelColor=1a1b27&label=FOLLOWERS" alt="followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASE-Japan%20%F0%9F%87%AF%F0%9F%87%B5-70A5FD?style=flat-square&labelColor=1a1b27" alt="base" />
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════
+       ABOUT
+     ═══════════════════════════════════════════════════════ -->
 
-## &nbsp;Featured&nbsp;Work
+## 🚀 &nbsp; About&nbsp;Me
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://www.yama-apps.com/">
-        <img src="./images/work-bento.png" alt="Bento Portfolio" />
-      </a>
-      <br/>
-      <b>Bento Portfolio</b>
-      <br/>
-      <sub>Next.js · Motion · Three.js · shadcn/ui</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://www.yama-apps.com/">
-        <img src="./images/work-chat.png" alt="AI Chat" />
-      </a>
-      <br/>
-      <b>AI Chat Companion</b>
-      <br/>
-      <sub>Vercel AI SDK · Streaming · React</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/yama-shoki/bihin-app">
-        <img src="./images/work-bihin.png" alt="bihin-app" />
-      </a>
-      <br/>
-      <b>bihin-app</b>
-      <br/>
-      <sub>備品購入申請デモ · Next.js</sub>
-    </td>
-  </tr>
-</table>
+```ts
+const yama = {
+  role:     "Web Engineer",
+  base:     "Japan 🇯🇵",
+  code:     ["TypeScript", "JavaScript", "SQL"],
+  ask_me:   ["Next.js", "shadcn/ui", "AI agents"],
+  building: "Products with AI × Web",
+  motto:    "Solve & Ship!!",
+};
+```
+
+> `AI 時代のものづくり` を軸に、**速く・きれいに・届けるまで** をやるエンジニア。<br/>
+> 普段は Next.js でプロダクトを作り、休日はポートフォリオで新しい UI 表現を試してる。
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════
+       TECH STACK
+     ═══════════════════════════════════════════════════════ -->
 
-## &nbsp;Stack
+## 🛠 &nbsp; Tech&nbsp;Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,hono,supabase,cloudflare,vercel,figma&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,hono,postgres,supabase,cloudflare,vercel,docker,figma,git&perline=14&theme=dark" alt="stack" />
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════
+       STATS
+     ═══════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp; GitHub&nbsp;Stats
 
 <div align="center">
 
-### &nbsp;Find&nbsp;me
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yama-shoki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-shoki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27" alt="top langs" />
 
-[**`▲ Portfolio`**](https://www.yama-apps.com/)
-&nbsp;·&nbsp;
-[**`✦ GitHub`**](https://github.com/yama-shoki)
-&nbsp;·&nbsp;
-[**`✉ Mail`**](mailto:shoki.yamamoto@claves.co.jp)
+<br/><br/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=yama-shoki&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
+
+</div>
 
 <br/>
 
-<sub><i>Built with curiosity & ☕</i></sub>
+<!-- ═══════════════════════════════════════════════════════
+       TROPHIES
+     ═══════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp; Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yama-shoki&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=8" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       CONTRIBUTION SNAKE
+     ═══════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp; Contribution&nbsp;Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       FEATURED PROJECT
+     ═══════════════════════════════════════════════════════ -->
+
+## 📌 &nbsp; Featured
+
+<div align="center">
+
+<a href="https://github.com/yama-shoki/bihin-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yama-shoki&repo=bihin-app&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="bihin-app" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.yama-apps.com/">
+  <img src="https://img.shields.io/badge/%E2%96%B2%20More%20Projects-yama--apps.com-70A5FD?style=for-the-badge&labelColor=1a1b27" alt="more" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       QUOTE
+     ═══════════════════════════════════════════════════════ -->
+
+## 💭 &nbsp; Random&nbsp;Dev&nbsp;Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       CONNECT
+     ═══════════════════════════════════════════════════════ -->
+
+## 🔗 &nbsp; Connect
+
+<div align="center">
+
+<a href="https://www.yama-apps.com/">
+  <img src="https://img.shields.io/badge/Portfolio-yama--apps.com-70A5FD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="https://github.com/yama-shoki">
+  <img src="https://img.shields.io/badge/GitHub-yama--shoki-70A5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="mailto:shoki.yamamoto@claves.co.jp">
+  <img src="https://img.shields.io/badge/Email-Contact-70A5FD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       FOOTER
+     ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer" width="100%" />
+
+<sub><i>Built with curiosity & ☕ &nbsp; — &nbsp; Thanks for stopping by!</i></sub>
 
 </div>
