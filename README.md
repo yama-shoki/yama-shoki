@@ -96,32 +96,6 @@ const yama = {
        CONTRIBUTION SNAKE
      ═══════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp; Contribution&nbsp;Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       FEATURED PROJECT
-     ═══════════════════════════════════════════════════════ -->
-
-## 📌 &nbsp; Featured
-
-<div align="center">
-
-<a href="https://github.com/yama-shoki/bihin-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yama-shoki&repo=bihin-app&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="bihin-app" />
-</a>
-
 <br/><br/>
 
 <a href="https://www.yama-apps.com/">
