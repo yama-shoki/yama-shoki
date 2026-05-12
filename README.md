@@ -45,32 +45,55 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       TECH STACK
+       TECH STACK  (hono 削除 / 数を絞って1段で揃える)
      ═══════════════════════════════════════════════════════ -->
 
 ## 🛠 &nbsp; Tech&nbsp;Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,hono,postgres,supabase,cloudflare,vercel,docker,figma,git&perline=14&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,cloudflare,vercel,figma&perline=10&theme=dark" alt="stack" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       STATS
+       STATS  (profile-summary-cards に統一 / Actions 自動生成型)
+       → vercel hosted の github-readme-stats を捨てて、
+          Actions で SVG を自分のリポジトリに保存する型にする。
+          一度生成されればもう表示失敗しない。
      ═══════════════════════════════════════════════════════ -->
 
 ## 📊 &nbsp; GitHub&nbsp;Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yama-shoki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="stats" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-shoki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27" alt="top langs" />
+<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" alt="profile" />
 
 <br/><br/>
+
+<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/3-stats.svg" width="48.5%" alt="stats" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="48.5%" alt="productive-time" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48.5%" alt="most-commit-language" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48.5%" alt="repos-per-language" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       STREAK
+     ═══════════════════════════════════════════════════════ -->
+
+## 🔥 &nbsp; Streak
+
+<div align="center">
 
 <img height="180" src="https://streak-stats.demolab.com?user=yama-shoki&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
 
@@ -96,10 +119,30 @@ const yama = {
        CONTRIBUTION SNAKE
      ═══════════════════════════════════════════════════════ -->
 
-<br/><br/>
+## 🐍 &nbsp; Contribution&nbsp;Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       FEATURED
+     ═══════════════════════════════════════════════════════ -->
+
+## 📌 &nbsp; Featured
+
+<div align="center">
 
 <a href="https://www.yama-apps.com/">
-  <img src="https://img.shields.io/badge/%E2%96%B2%20More%20Projects-yama--apps.com-70A5FD?style=for-the-badge&labelColor=1a1b27" alt="more" />
+  <img src="https://img.shields.io/badge/%E2%96%B2%20Visit%20My%20Playground-yama--apps.com-70A5FD?style=for-the-badge&labelColor=1a1b27" alt="portfolio" />
 </a>
 
 </div>
