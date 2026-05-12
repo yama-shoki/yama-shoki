@@ -45,7 +45,7 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       TECH STACK  (hono 削除 / 数を絞って1段で揃える)
+       TECH STACK
      ═══════════════════════════════════════════════════════ -->
 
 ## 🛠 &nbsp; Tech&nbsp;Stack
@@ -53,35 +53,6 @@ const yama = {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,supabase,cloudflare,vercel,figma&perline=10&theme=dark" alt="stack" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       STATS  (profile-summary-cards に統一 / Actions 自動生成型)
-       → vercel hosted の github-readme-stats を捨てて、
-          Actions で SVG を自分のリポジトリに保存する型にする。
-          一度生成されればもう表示失敗しない。
-     ═══════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp; GitHub&nbsp;Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" alt="profile" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/3-stats.svg" width="48.5%" alt="stats" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="48.5%" alt="productive-time" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48.5%" alt="most-commit-language" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48.5%" alt="repos-per-language" />
 
 </div>
 
@@ -110,24 +81,6 @@ const yama = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=yama-shoki&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=8" alt="trophies" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       CONTRIBUTION SNAKE
-     ═══════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp; Contribution&nbsp;Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" width="100%" />
-</picture>
 
 </div>
 
