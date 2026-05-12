@@ -23,6 +23,27 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
+       ★ HERO CTA  →  Portfolio (一番上の方に格上げ)
+     ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎯 &nbsp; Visit&nbsp;My&nbsp;Playground
+
+普段の "作って届ける" を全部置いてある場所。<br/>
+Bento UI · 3D · AI chatbot で遊ぶショーケース型ポートフォリオ。
+
+<br/>
+
+<a href="https://www.yama-apps.com/">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20yama--apps.com-Open%20Portfolio-70A5FD?style=for-the-badge&labelColor=1a1b27&logo=vercel&logoColor=white" height="48" alt="portfolio" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
        ABOUT
      ═══════════════════════════════════════════════════════ -->
 
@@ -45,116 +66,33 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       TECH STACK — 42 technologies, categorized
+       ⚡ ACTIVITY  (Snake / 3D / Activity Graph / Streak をまとめる)
      ═══════════════════════════════════════════════════════ -->
 
-## 🛠 &nbsp; Tech&nbsp;Stack
-
-<table>
-  <tr>
-    <td valign="middle" width="160"><b>🧬 Languages</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript" />&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" />&nbsp;
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" alt="HTML5" />&nbsp;
-      <img src="https://cdn.simpleicons.org/css/663399" height="32" alt="CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🎨 Frontend</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" />&nbsp;
-      <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="32" alt="Next.js" />&nbsp;
-      <img src="https://cdn.simpleicons.org/vite/646CFF" height="32" alt="Vite" />&nbsp;
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="Tailwind" />&nbsp;
-      <img src="https://cdn.simpleicons.org/shadcnui/ffffff" height="32" alt="shadcn/ui" />&nbsp;
-      <img src="https://cdn.simpleicons.org/framer/0055FF" height="32" alt="Framer Motion" />&nbsp;
-      <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="32" alt="React Query" />&nbsp;
-      <img src="https://cdn.simpleicons.org/swr/ffffff" height="32" alt="SWR" />&nbsp;
-      <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="32" alt="React Hook Form" />&nbsp;
-      <img src="https://cdn.simpleicons.org/zod/3068B7" height="32" alt="Zod" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>⚙️ Backend</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="32" alt="Node.js" />&nbsp;
-      <img src="https://cdn.simpleicons.org/hono/E36002" height="32" alt="Hono" />&nbsp;
-      <img src="https://cdn.simpleicons.org/express/ffffff" height="32" alt="Express" />&nbsp;
-      <img src="https://cdn.simpleicons.org/elysia/8E68C9" height="32" alt="Elysia" />&nbsp;
-      <img src="https://cdn.simpleicons.org/bun/FBF0DF" height="32" alt="Bun" />&nbsp;
-      <img src="https://cdn.simpleicons.org/prisma/2D3748" height="32" alt="Prisma" />&nbsp;
-      <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="32" alt="Drizzle" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🗄 Database</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" alt="PostgreSQL" />&nbsp;
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="MySQL" />&nbsp;
-      <img src="https://cdn.simpleicons.org/sqlite/003B57" height="32" alt="SQLite" />&nbsp;
-      <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="32" alt="Supabase" />&nbsp;
-      <img src="https://cdn.simpleicons.org/turso/4FF8D2" height="32" alt="Turso" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🔐 Auth & Pay</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/clerk/6C47FF" height="32" alt="Clerk" />&nbsp;
-      <img src="https://cdn.simpleicons.org/stripe/008CDD" height="32" alt="Stripe" />&nbsp;
-      <img src="https://cdn.simpleicons.org/resend/ffffff" height="32" alt="Resend" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>☁️ Infra / DevOps</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="32" alt="AWS" />&nbsp;
-      <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="32" alt="Cloudflare" />&nbsp;
-      <img src="https://cdn.simpleicons.org/vercel/ffffff" height="32" alt="Vercel" />&nbsp;
-      <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />&nbsp;
-      <img src="https://cdn.simpleicons.org/github/ffffff" height="32" alt="GitHub" />&nbsp;
-      <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="32" alt="GitHub Actions" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🧪 Test & Lint</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="32" alt="Playwright" />&nbsp;
-      <img src="https://cdn.simpleicons.org/vitest/6E9F18" height="32" alt="Vitest" />&nbsp;
-      <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="32" alt="ESLint" />&nbsp;
-      <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="32" alt="Prettier" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🤖 AI / Workflow</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/claude/D97757" height="32" alt="Claude" />&nbsp;
-      <img src="https://cdn.simpleicons.org/openai/ffffff" height="32" alt="OpenAI" />&nbsp;
-      <img src="https://cdn.simpleicons.org/raycast/FF6363" height="32" alt="Raycast" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>🎨 Design / Ops</b></td>
-    <td valign="middle">
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" alt="Figma" />&nbsp;
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" height="32" alt="Canva" />&nbsp;
-      <img src="https://cdn.simpleicons.org/miro/FFD02F" height="32" alt="Miro" />&nbsp;
-      <img src="https://cdn.simpleicons.org/notion/ffffff" height="32" alt="Notion" />&nbsp;
-      <img src="https://cdn.simpleicons.org/slack/4A154B" height="32" alt="Slack" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       STREAK
-     ═══════════════════════════════════════════════════════ -->
-
-## 🔥 &nbsp; Streak
+## ⚡ &nbsp; Activity
 
 <div align="center">
 
+<!-- 🎲 3D 草グラフ -->
+<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contrib" />
+
+<br/><br/>
+
+<!-- 🐍 Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- 📈 Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yama-shoki&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD" width="100%" alt="activity graph" />
+
+<br/><br/>
+
+<!-- 🔥 Streak -->
 <img height="180" src="https://streak-stats.demolab.com?user=yama-shoki&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
 
 </div>
@@ -162,7 +100,123 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       TROPHIES
+       🛠 TECH STACK  (縦流しでゆったり)
+     ═══════════════════════════════════════════════════════ -->
+
+## 🛠 &nbsp; Tech&nbsp;Stack
+
+#### 🧬 &nbsp; Languages
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/663399" height="40" alt="CSS" />
+</p>
+
+<br/>
+
+#### 🎨 &nbsp; Frontend
+
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" height="40" alt="shadcn/ui" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="Framer Motion" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" alt="React Query" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swr/ffffff" height="40" alt="SWR" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="40" alt="React Hook Form" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zod/3068B7" height="40" alt="Zod" />
+</p>
+
+<br/>
+
+#### ⚙️ &nbsp; Backend
+
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hono/E36002" height="40" alt="Hono" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" alt="Express" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/elysia/8E68C9" height="40" alt="Elysia" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bun/FBF0DF" height="40" alt="Bun" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="40" alt="Drizzle" />
+</p>
+
+<br/>
+
+#### 🗄 &nbsp; Database
+
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/turso/4FF8D2" height="40" alt="Turso" />
+</p>
+
+<br/>
+
+#### 🔐 &nbsp; Auth & Payment
+
+<p>
+  <img src="https://cdn.simpleicons.org/clerk/6C47FF" height="40" alt="Clerk" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" alt="Stripe" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/resend/ffffff" height="40" alt="Resend" />
+</p>
+
+<br/>
+
+#### ☁️ &nbsp; Infra / DevOps
+
+<p>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" alt="Vercel" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" />
+</p>
+
+<br/>
+
+#### 🧪 &nbsp; Test & Lint
+
+<p>
+  <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="40" alt="Playwright" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vitest/6E9F18" height="40" alt="Vitest" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="ESLint" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="40" alt="Prettier" />
+</p>
+
+<br/>
+
+#### 🤖 &nbsp; AI / Workflow
+
+<p>
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/ffffff" height="40" alt="OpenAI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/raycast/FF6363" height="40" alt="Raycast" />
+</p>
+
+<br/>
+
+#### 🎨 &nbsp; Design / Ops
+
+<p>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/miro/FFD02F" height="40" alt="Miro" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/ffffff" height="40" alt="Notion" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="Slack" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
+       🏆 TROPHIES
      ═══════════════════════════════════════════════════════ -->
 
 ## 🏆 &nbsp; Trophies
@@ -176,69 +230,7 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       ACTIVITY GRAPH  (新規)
-     ═══════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp; Activity&nbsp;Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yama-shoki&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD" width="100%" alt="activity graph" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       CONTRIBUTION SNAKE
-     ═══════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp; Contribution&nbsp;Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       3D CONTRIBUTION GRAPH  (新規 / Actions 必須)
-     ═══════════════════════════════════════════════════════ -->
-
-## 🎲 &nbsp; 3D&nbsp;Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yama-shoki/yama-shoki/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contrib" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       FEATURED
-     ═══════════════════════════════════════════════════════ -->
-
-## 📌 &nbsp; Featured
-
-<div align="center">
-
-<a href="https://www.yama-apps.com/">
-  <img src="https://img.shields.io/badge/%E2%96%B2%20Visit%20My%20Playground-yama--apps.com-70A5FD?style=for-the-badge&labelColor=1a1b27" alt="portfolio" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════
-       QUOTE
+       💭 QUOTE
      ═══════════════════════════════════════════════════════ -->
 
 ## 💭 &nbsp; Random&nbsp;Dev&nbsp;Quote
@@ -252,7 +244,7 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       CONNECT
+       🔗 CONNECT
      ═══════════════════════════════════════════════════════ -->
 
 ## 🔗 &nbsp; Connect
