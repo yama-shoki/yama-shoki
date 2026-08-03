@@ -44,8 +44,42 @@ Bento UI · 3D · AI chatbot で遊ぶショーケース型ポートフォリオ
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
+       📑 TABLE OF CONTENTS
+     ═══════════════════════════════════════════════════════ -->
+
+<details>
+<summary>📑 &nbsp;Table of Contents</summary>
+<br/>
+
+- [🚀 About Me](#about-me)
+- [⚡ Activity](#activity)
+- [🛠 Tech Stack](#tech-stack)
+  - [🎨 Frontend & UI](#frontend--ui)
+    - [🧬 Languages](#languages)
+    - [🎨 Frontend](#frontend)
+  - [⚙️ Backend & Data](#backend--data)
+    - [⚙️ Backend](#backend)
+    - [🗄 Database](#database)
+    - [🔐 Auth & Payment](#auth--payment)
+  - [☁️ Infra & Quality](#infra--quality)
+    - [☁️ Infra / DevOps](#infra--devops)
+    - [🧪 Test & Lint](#test--lint)
+  - [🤖 AI & Design](#ai--design)
+    - [🤖 AI / Workflow](#ai--workflow)
+    - [🎨 Design / Ops](#design--ops)
+- [🏆 Trophies](#trophies)
+- [💭 Random Dev Quote](#random-dev-quote)
+- [🔗 Connect](#connect)
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════
        ABOUT
      ═══════════════════════════════════════════════════════ -->
+
+<a id="about-me"></a>
 
 ## 🚀 &nbsp; About&nbsp;Me
 
@@ -68,6 +102,8 @@ const yama = {
 <!-- ═══════════════════════════════════════════════════════
        ⚡ ACTIVITY  (Snake / 3D / Activity Graph / Streak をまとめる)
      ═══════════════════════════════════════════════════════ -->
+
+<a id="activity"></a>
 
 ## ⚡ &nbsp; Activity
 
@@ -100,10 +136,18 @@ const yama = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════
-       🛠 TECH STACK  (縦流しでゆったり)
+       🛠 TECH STACK  (Frontend/Backend/Infra/AI の 4 グループに階層化)
      ═══════════════════════════════════════════════════════ -->
 
+<a id="tech-stack"></a>
+
 ## 🛠 &nbsp; Tech&nbsp;Stack
+
+<a id="frontend--ui"></a>
+
+### 🎨 &nbsp; Frontend & UI
+
+<a id="languages"></a>
 
 #### 🧬 &nbsp; Languages
 
@@ -115,6 +159,8 @@ const yama = {
 </p>
 
 <br/>
+
+<a id="frontend"></a>
 
 #### 🎨 &nbsp; Frontend
 
@@ -133,6 +179,12 @@ const yama = {
 
 <br/>
 
+<a id="backend--data"></a>
+
+### ⚙️ &nbsp; Backend & Data
+
+<a id="backend"></a>
+
 #### ⚙️ &nbsp; Backend
 
 <p>
@@ -147,6 +199,8 @@ const yama = {
 
 <br/>
 
+<a id="database"></a>
+
 #### 🗄 &nbsp; Database
 
 <p>
@@ -159,6 +213,8 @@ const yama = {
 
 <br/>
 
+<a id="auth--payment"></a>
+
 #### 🔐 &nbsp; Auth & Payment
 
 <p>
@@ -168,6 +224,12 @@ const yama = {
 </p>
 
 <br/>
+
+<a id="infra--quality"></a>
+
+### ☁️ &nbsp; Infra & Quality
+
+<a id="infra--devops"></a>
 
 #### ☁️ &nbsp; Infra / DevOps
 
@@ -182,6 +244,8 @@ const yama = {
 
 <br/>
 
+<a id="test--lint"></a>
+
 #### 🧪 &nbsp; Test & Lint
 
 <p>
@@ -193,6 +257,12 @@ const yama = {
 
 <br/>
 
+<a id="ai--design"></a>
+
+### 🤖 &nbsp; AI & Design
+
+<a id="ai--workflow"></a>
+
 #### 🤖 &nbsp; AI / Workflow
 
 <p>
@@ -202,6 +272,8 @@ const yama = {
 </p>
 
 <br/>
+
+<a id="design--ops"></a>
 
 #### 🎨 &nbsp; Design / Ops
 
@@ -219,6 +291,8 @@ const yama = {
        🏆 TROPHIES
      ═══════════════════════════════════════════════════════ -->
 
+<a id="trophies"></a>
+
 ## 🏆 &nbsp; Trophies
 
 <div align="center">
@@ -233,6 +307,8 @@ const yama = {
        💭 QUOTE
      ═══════════════════════════════════════════════════════ -->
 
+<a id="random-dev-quote"></a>
+
 ## 💭 &nbsp; Random&nbsp;Dev&nbsp;Quote
 
 <div align="center">
@@ -246,6 +322,8 @@ const yama = {
 <!-- ═══════════════════════════════════════════════════════
        🔗 CONNECT
      ═══════════════════════════════════════════════════════ -->
+
+<a id="connect"></a>
 
 ## 🔗 &nbsp; Connect
 
